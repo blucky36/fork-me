@@ -1,5 +1,20 @@
 // Write a for loop that will print only even numbers from an array:
-// For example: question0([ 5, 20, 11, 42, 2, 19 ]) >> [ 20, 42, 2 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function sup (){console.log("BALAKE WAS HERE")}; sup()// For example: question0([ 5, 20, 11, 42, 2, 19 ]) >> [ 20, 42, 2 ]
 
 function question0 (array) {
   // Write your code here! Make sure not to modify the function
